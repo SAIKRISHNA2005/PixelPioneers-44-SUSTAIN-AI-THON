@@ -6,15 +6,7 @@ PixelPioneers-44 is a project developed for the SUSTAIN-AI-THON, focusing on lev
 
 ## Workflow Diagram
 
-![Workflow Diagram](path/to/your/workflow-diagram.png)
-
-*Replace `path/to/your/workflow-diagram.png` with the actual path to your workflow diagram image.*
-
-## Concept Map
-
-![Concept Map](path/to/your/concept-map.png)
-
-*Replace `path/to/your/concept-map.png` with the actual path to your concept map image.*
+![Workflow Diagram](https://github.com/SAIKRISHNA2005/PixelPioneers-44-SUSTAIN-AI-THON/blob/main/workflow%20diag.jpg)
 
 ## Tech Stack
 
